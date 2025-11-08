@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Do exercise",
+        "date": "2025-11-28",
+        "time": "7:00",
+        "duration": 60
+    },
+    {
+        "title": "Doctor Appointment",
+        "date": "2025-11-28",
+        "time": "11:00",
+        "duration": 30
+    },
+    {
+        "title":"Complete the Assignment",
+        "date": "2025-11-08",
+        "time": "3:00"
+        
+    },
+    {
+        "title": "Attend Interview",
+        "date": "2025-11-24",
+        "time": "10:00",
+        "duration": 40
+    },
+    {
+        "title": "Lunch with friends",
+        "date": "2025-11-28",
+        "time": "12:00",
+        "duration": 70
+    },
+    {
+        "title": "Become a FrontEnd Developer",
+        "date": "2025-12-12",
+        "time": "14:00"
+    }
+]
